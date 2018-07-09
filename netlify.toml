@@ -1,0 +1,5 @@
+[build]
+  base = "2018-09"
+  publish = "2018-09"
+  command = "./process.sh"
+
