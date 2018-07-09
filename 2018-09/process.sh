@@ -19,7 +19,7 @@ cat >>$PREFIX.html <<EOF
 </body>
 </html>
 EOF
-wkhtmltopdf $PREFIX.html $PREFIX.pdf
+weasyprint $PREFIX.html $PREFIX.pdf
 }
 
 process kube
