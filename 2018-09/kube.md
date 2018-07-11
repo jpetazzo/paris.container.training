@@ -51,14 +51,14 @@ Note : étant donné que tous les logiciels utilisés sont en anglais, et que ce
 ## FORMATEURS
 
 
-## Jérôme Petazzoni
+### Jérôme Petazzoni
 
 Jérôme fait partie de l'équipe qui a conçu et popularisé Docker. Il a passé 7 années au service de la fameuse startup Californienne, durant lesquelles il a été responsable du PAAS dotCloud, avant de représenter Docker lors de conférences comme LinuxCon, Yandex YAC, OSCON, Velocity, LISA, ou encore AWS re:invent. Depuis 2014, il a formé plusieurs milliers de personnes sur les conteneurs et l'orchestration.
 
-Avant Docker, il a co-fondé l'hébergeur Enix, et il a porté diverses casquettes dans les domaines de l'encodage et la diffusion de flux vidéo, les systèmes géographiques, la fibre optique, et la voix sur IP. Il est titulaire d'un DEA de l'Université de Marne-la-Vallée Paris-Est, possède un nombre indéterminé d'instruments de musique, et sait jouer le thème de Zelda sur la plupart d'entre eux.
+Avant Docker, il a été co-fondateur d'ENIX, et il a porté diverses casquettes dans les domaines de l'encodage et la diffusion de flux vidéo, les systèmes géographiques, la fibre optique, et la voix sur IP. Il est titulaire d'un DEA de l'Université de Marne-la-Vallée Paris-Est, possède un nombre indéterminé d'instruments de musique, et sait jouer le thème de Zelda sur la plupart d'entre eux.
 
 
-## Alexandre Buisine
+### Alexandre Buisine
 
 Alexandre vient de rejoindre l'équipe ENIX au poste de directeur général. Avec 15 ans d'expérience dans la technique et le management, il reste un grand passionné du monde open-source et plus particulièrement tout ce qui touche au domaine des containers. Il vient de passer 3 ans à développer un service de VR (Réalité Virtuelle) basé sur une stack applicative s'appuyant sur Docker, et à solutionner les problèmes d'orchestration pour gérer l'encodage et la conversion optique des vidéos en VR.
 
