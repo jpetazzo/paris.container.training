@@ -152,6 +152,14 @@ Auparavant, Alexandre a dirigé la société SmartJog, et a occupé diverses pos
 - Gestion avancée du traffic
 
 
+## SUIVI ET ÉVALUATION
+
+Les participant·e·s sont évalué·e·s en permanence par les intervenant·e·s, qui s'assurent à intervalles réguliers de la bonne compréhension du support et des exercices.
+Les résultats attendus des exercices sont clairement exprimés dans le support de formation, permettant à chacun·e de vérifier son avancement et la bonne exécution des travaux pratiques.
+Durant toute la formation, il est possible de poser des questions en personnes, mais aussi via une *chat room* qui facilite l'interaction,
+en particulier pour les stagiaires timides ou ayant peur de prendre la parole en public.
+
+
 ## INFORMATIONS PRATIQUES
 
 Nous vous accueillerons chaque jour à partir de 9 heures du matin dans un lieu situé dans le centre de Paris spécifié ultérieurement.
