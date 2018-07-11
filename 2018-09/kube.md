@@ -1,6 +1,6 @@
 # Formation : Kubernetes Bootstrap
 
-Bien prendre en main Kubernetes pour déployer micro-services et applications traditionnelles
+Déployer ses micro-services et applications traditionnelles avec Kubernetes
 
 17 et 18 septembre 2018 à Paris
 
@@ -60,7 +60,9 @@ Avant Docker, il a co-fondé l'hébergeur Enix, et il a porté diverses casquett
 
 ## Alexandre Buisine
 
-FIXME bio Alex
+Alexandre vient de rejoindre l'équipe ENIX au poste de directeur général. Avec 15 ans d'expérience dans la technique et le management, il reste un grand passionné du monde open-source et plus particulièrement tout ce qui touche au domaine des containers. Il vient de passer 3 ans à développer un service de VR (Réalité Virtuelle) basé sur une stack applicative s'appuyant sur Docker, et à solutionner les problèmes d'orchestration pour gérer l'encodage et la conversion optique des vidéos en VR.
+
+Auparavant, Alexandre a dirigé la société SmartJog, et a occupé diverses positions dans les domaines de l'audio-visuel, la transmission satellite, le développement logiciel, les réseaux IP, la distribution massive de contenus sur Internet. Il est diplômé d'EPITA et est titulaire d'un MBA de l'école HEC. A titre personnel, il aime grimper, piloter, bricoler (DIY), et les crypto-monnaies.
 
 
 ## PROGRAMME (2 jours)
@@ -158,15 +160,3 @@ Nous vous servirons un petit-déjeuner (café, jus d'orange, viennoiseries) et l
 
 Le programme se termine chaque jours vers 17h30. Nos intervenant·e·s restent ensuite à votre disposition si vous souhaitez
 poser des questions en privé ou obtenir des précisions ou rappels sur le contenu présenté.
-
-
-## NOUS CONTACTER
-
-📞 06 00 00 00 00
-
-📧 formations@enix.fr
-
-## S'INSCRIRE
-
-FIXME lien
-
