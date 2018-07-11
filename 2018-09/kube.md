@@ -8,7 +8,7 @@ Prix : 1900€ HT
 
 ## DESCRIPTION
 
-Cette formation de **deux jours** au format **workshop** vous permettra de prendre en main Kubernetes, comprendre ses concepts et son architecture, et être capable de l'utiliser pour vos applications. Elle met l'accent sur les principes **« Cloud Native »** et les architectures en **micro-services**, mais est tout autant pertinente pour les applications **monolitihques** traditionnelles.
+Cette formation de **deux jours** au format **workshop** vous permettra de prendre en main Kubernetes, comprendre ses concepts et son architecture, et être capable de l'utiliser pour vos applications. Elle met l'accent sur les principes **« Cloud Native »** et les architectures en **micro-services**, mais est tout autant pertinente pour les applications **monolithiques** traditionnelles.
 
 **De la théorie à la pratique** : nous fournissons à chaque participant·e un cluster Kubernetes dédié, permettant de réaliser de **nombreux exercices concrets** tout au long des deux jours de formation. Les exercices proposent des composants écrits (entre autres) en Go, Java, Node.js, Python, Ruby, communiquant entre eux via des load balancers. Nous vous guiderons dans le déploiement de ce code et toute l'infrastructure associée.
 
@@ -40,7 +40,7 @@ Pour assister à cette formation, il est utile de connaître et comprendre les *
 Pas besoin d'être un·e expert·e, mais idéalement, vous êtes capable de construire une image (par exemple avec un
 **Dockerfile**), lancer un conteneur, l'arrêter, inspecter ses logs.
 
-Si vous n'êtes pas familiers avec ces concepts, vous pouvez vous initier à Docker à l'aide de ce « lab » en
+Si vous n'êtes pas familier avec ces concepts, vous pouvez vous initier à Docker à l'aide de ce « lab » en
 ligne (en anglais) : https://training.play-with-docker.com/beginner-linux/
 
 Les travaux pratiques se feront sur des machines virtuelles (fournies par nos soins) auxquelles vous vous connecterez via SSH. Vous devrez donc venir à la formation **avec votre ordinateur portable.**
