@@ -166,5 +166,5 @@ Nous vous accueillerons chaque jour à partir de 9 heures du matin dans un lieu 
 
 Nous vous servirons un petit-déjeuner (café, jus d'orange, viennoiseries) et la formation débutera aussitôt après.
 
-Le programme se termine chaque jours vers 17h30. Nos intervenant·e·s restent ensuite à votre disposition si vous souhaitez
+Le programme se termine chaque jour vers 17h30. Nos intervenant·e·s restent ensuite à votre disposition si vous souhaitez
 poser des questions en privé ou obtenir des précisions ou rappels sur le contenu présenté.
